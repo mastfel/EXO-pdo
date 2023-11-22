@@ -23,7 +23,7 @@ if (count($friends) > 0) {
     echo 'la liste est vide .';
 }
 
-// insérer un nouveau personnage dans "freind"
+// insérer un nouveau personnage dans "friend"
 
 // $firstname = $_POST["firstname"];
 // $lastname = $_POST["lastname"];
